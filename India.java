@@ -3,7 +3,7 @@ public class IndiaInfo {
         System.out.println("=== Information about India ===");
         System.out.println("India is the 7th largest country in the world and the largest democracy.");
         System.out.println("It is famous for its cultural diversity, history, and technological growth.\n");
-
+        System.out.println("Bharat Sanchar Nigam Limited.");
         System.out.println("Five Specialities of India:");
         System.out.println("1. Unity in Diversity - People of different religions, languages, and traditions live together.");
         System.out.println("2. Rich Heritage - Ancient monuments like Taj Mahal, temples, and forts.");
@@ -12,3 +12,4 @@ public class IndiaInfo {
         System.out.println("5. Yoga and Ayurveda - India is the birthplace of Yoga and traditional healing practices.");
     }
 }
+
